@@ -11,4 +11,5 @@ bool flag[N];
 int main()
 {
     printf("123");
+    
 }
